@@ -1,4 +1,4 @@
 - **testes**
 
-  - [teste1](docs/plans/site.md)
+  - [Sobre a Equipe](docs/plans/site.md)
   - [testeColuna](docs/techs/fifo.md)
